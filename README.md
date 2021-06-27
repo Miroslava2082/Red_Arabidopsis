@@ -11,3 +11,6 @@ Para obtener información de ella se revisaron bases de datos biologicas de dond
 Analisis de la información.
 El locus MAX3 está en el brazo inferior del cromosoma II entre los marcadores AthB102 y GBF3. La ubicación de MAX3 se delimitó a una región delimitada por los marcadores 442327 y 442610. Esta región tiene aproximadamente 66 kb y contiene 15 genes anotados ( http://www.tigr.org/tdb/e2k1/ath1 ). Uno de estos genes, At2g44990, codifica una supuesta enzima de escisión de carotenoides, AtCCD7, lo que sugiere que MAX3 es CCD7.
 El marco de lectura abierto previsto de MAX3 incluye una señal de localización de cloroplasto putativa ( http://www.cbs.dtu.dk/services/TargetP/ ).
+
+Se hizó una busqueda en Genemania de CCD7 para observar la interacción con otros genes en el organismode Arabidopsis Thaliana en base a estudios previos y observar las funciones en las que participa, con otro conjunto de genes, en funciones biolóicas. 
+Los datos obtenidos fueron los siguientes: [genemania-report (2).pdf](https://github.com/Miroslava2082/Red_Arabidopsis/files/6722464/genemania-report.2.pdf)
