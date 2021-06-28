@@ -17,6 +17,14 @@ Los datos obtenidos fueron los siguientes: [genemania-report (2).pdf](https://gi
 
 En Genemania es una base de datos orientada a la construcción de redes de asociación de genes que, entre otros muchos datos, almacena interacciones de proteínas. Proporciona  información  sobre  las  asociaciones  de  genes/proteínas obtenidas a  partir  de: (i)  interacciones  físicas, (ii)  co‐expresión  de genes, (iii)  predicciones computacionales, (iv) rutas de señalización, (v) co‐localización, (vi) interacciones genéticas y (vi) dominios de proteínas comunes.!
 En CCD7 se pueden observar las siguientes interacciones en donde se muestran el conjunto de interacciones físicas (en color rojo), las predicciones (naranja), las co-expresiones (morado), los dominios que comparte con otras proteínas (amarillo) y la interacción geneteica (verde).
-[Uploading genemania-network (2).jpg…]
 ![genemania-network (3)](https://user-images.githubusercontent.com/85301570/123563655-88bd7900-d77b-11eb-9f7a-db6fdf50aebb.jpg)
 [genemania-networks (2).txt](https://github.com/Miroslava2082/Red_Arabidopsis/files/6722503/genemania-networks.2.txt)
+ 
+En el analisis de los datos obtenido en Genemania se obtiene que no se han reportado interacciones físicas con otros genes, no presenta interacción genetica ni co-localixzación con otros genes.
+![Uploading genemania-network (4).jpg…]
+Pero computacionalmente predice que tiene interacción con 8 genes, en donde se puede predecir que teiene mayor interacción con los genes AT5G25050 y AT1G04570 de manera directa, estas se interconectan con el gen CCD8.
+![Uploading genemania-network (5).jpg…]
+Se co-expresa con varios genes y también se puede co-expresar de forma inderacta con otros como: CCD1, NCDE5, AT1G52100, etc. Como se muestra en la siguiente imagen. Los genes más cercanos a CCD7 son los que presentan interacción directa, mientras que los genes más alejados y visualmente grandes presentan una interacción indirecta.
+![genemania-network (6)](https://user-images.githubusercontent.com/85301570/123564221-22862580-d77e-11eb-89a3-13e7151cd9ad.jpg)
+Por último se puede observar que los principales genes con lo que comparte dominios de proteínas con otros genes son genes pertenecientes a las familias CCD y NCED.
+![genemania-network (7)](https://user-images.githubusercontent.com/85301570/123564368-d4255680-d77e-11eb-9d58-ae1f53997fee.jpg)
