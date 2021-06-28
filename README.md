@@ -20,7 +20,7 @@ En CCD7 se pueden observar las siguientes interacciones en donde se muestran el 
 ![genemania-network (3)](https://user-images.githubusercontent.com/85301570/123563655-88bd7900-d77b-11eb-9f7a-db6fdf50aebb.jpg)
 [genemania-networks (2).txt](https://github.com/Miroslava2082/Red_Arabidopsis/files/6722503/genemania-networks.2.txt)
  
-En el analisis de los datos obtenido en Genemania se obtiene que no se han reportado interacciones físicas con otros genes, no presenta interacción genetica y la única co-localización se encuentra en los genes NCDE5 Y NCDE9.
+En el analisis de los datos obtenido en Genemania se obtiene que no se han reportado interacciones físicas con otros genes, no presenta interacción genetica y la única co-localización se encuentra en los genes NCED5 Y NCED9.
 ![genemania-network (9)](https://user-images.githubusercontent.com/85301570/123564575-8fe68600-d77f-11eb-886f-1a29f14f807f.jpg)
 
 Pero computacionalmente predice que tiene interacción con 8 genes, en donde se puede predecir que tiene mayor interacción con los genes AT5G25050 y AT1G04570 de manera directa, éstas a su vez se interconectan con el gen CCD8.
