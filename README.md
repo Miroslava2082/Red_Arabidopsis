@@ -16,4 +16,7 @@ Se hizó una busqueda en Genemania de CCD7 para observar la interacción con otr
 Los datos obtenidos fueron los siguientes: [genemania-report (2).pdf](https://github.com/Miroslava2082/Red_Arabidopsis/files/6722464/genemania-report.2.pdf)
 
 En Genemania es una base de datos orientada a la construcción de redes de asociación de genes que, entre otros muchos datos, almacena interacciones de proteínas. Proporciona  información  sobre  las  asociaciones  de  genes/proteínas obtenidas a  partir  de: (i)  interacciones  físicas, (ii)  co‐expresión  de genes, (iii)  predicciones computacionales, (iv) rutas de señalización, (v) co‐localización, (vi) interacciones genéticas y (vi) dominios de proteínas comunes.!
-En CCD7 se pueden observar las siguientes interacciones en donde se muestran el conjunto de interacciones físicas (en color rojo), las predicciones (naranaja), las co-expresiones (morado), los dominios que comparte con otras proteínas (amarillo) y la interacción geneteica (verde).[Uploading genemania-network (2).jpg…]()
+En CCD7 se pueden observar las siguientes interacciones en donde se muestran el conjunto de interacciones físicas (en color rojo), las predicciones (naranja), las co-expresiones (morado), los dominios que comparte con otras proteínas (amarillo) y la interacción geneteica (verde).
+[Uploading genemania-network (2).jpg…]
+![genemania-network (3)](https://user-images.githubusercontent.com/85301570/123563655-88bd7900-d77b-11eb-9f7a-db6fdf50aebb.jpg)
+[genemania-networks (2).txt](https://github.com/Miroslava2082/Red_Arabidopsis/files/6722503/genemania-networks.2.txt)
