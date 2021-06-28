@@ -20,10 +20,10 @@ En CCD7 se pueden observar las siguientes interacciones en donde se muestran el 
 ![genemania-network (3)](https://user-images.githubusercontent.com/85301570/123563655-88bd7900-d77b-11eb-9f7a-db6fdf50aebb.jpg)
 [genemania-networks (2).txt](https://github.com/Miroslava2082/Red_Arabidopsis/files/6722503/genemania-networks.2.txt)
  
-En el analisis de los datos obtenido en Genemania se obtiene que no se han reportado interacciones físicas con otros genes, no presenta interacción genetica ni co-localixzación con otros genes.
-![Uploading genemania-network (4).jpg…]
+En el analisis de los datos obtenido en Genemania se obtiene que no se han reportado interacciones físicas con otros genes, no presenta interacción genetica y la única co-localización se encuentra en los genes NCDE5 Y NCDE9.
+![genemania-network (9)](https://user-images.githubusercontent.com/85301570/123564575-8fe68600-d77f-11eb-886f-1a29f14f807f.jpg)
 Pero computacionalmente predice que tiene interacción con 8 genes, en donde se puede predecir que teiene mayor interacción con los genes AT5G25050 y AT1G04570 de manera directa, estas se interconectan con el gen CCD8.
-![Uploading genemania-network (5).jpg…]
+![genemania-network (8)](https://user-images.githubusercontent.com/85301570/123564480-3da56500-d77f-11eb-8ab3-6634f9d9657f.jpg)
 Se co-expresa con varios genes y también se puede co-expresar de forma inderacta con otros como: CCD1, NCDE5, AT1G52100, etc. Como se muestra en la siguiente imagen. Los genes más cercanos a CCD7 son los que presentan interacción directa, mientras que los genes más alejados y visualmente grandes presentan una interacción indirecta.
 ![genemania-network (6)](https://user-images.githubusercontent.com/85301570/123564221-22862580-d77e-11eb-89a3-13e7151cd9ad.jpg)
 Por último se puede observar que los principales genes con lo que comparte dominios de proteínas con otros genes son genes pertenecientes a las familias CCD y NCED.
